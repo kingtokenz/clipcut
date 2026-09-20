@@ -1,0 +1,6 @@
+{
+  "name": "2Short AI - AI Video Repurposer",
+  "description": "Extract viral short-form clips from long YouTube videos with AI moment detection, animated captions, and speaker crop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
